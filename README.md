@@ -12,8 +12,8 @@
 
 ## 👨‍💻 Perfil Executivo  
 
-**Perfil de Liderança:**  
-
+**Perfil de Liderança :**  
+```
 👨‍💼 Edson Gomes Chaves
 📍 Localização: Acre, Brasil
 🎯 Função: Engenheiro de Dados Sênior & Arquiteto de ML
