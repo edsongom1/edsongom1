@@ -96,18 +96,6 @@ Ferramentas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edsongom1&theme=dark" alt="GitHub Streak" />
 </div>
 
-🏆 Conquistas & Troféus
-<div align="center">
-  <!-- GitHub Trophies em linha -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Edsongom1&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <!-- Conquistas detalhadas -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Edsongom1&theme=onedark&no-frame=true&column=7" alt="Detailed Trophies" />
-</div>
-<div align="center">
-  <!-- Métricas adicionais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Edsongom1&show_icons=true&theme=dark&hide=contribs&include_all_commits=true&count_private=true&custom_title=Estatísticas%20GitHub" alt="GitHub Stats"/>
-</div>
-
 💼 Projetos em Destaque
 <div align="center">
 Mostrar Imagem
