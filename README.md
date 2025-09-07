@@ -129,11 +129,12 @@ Mostrar Imagem
 </div>
 
 🎯 Sobre Mim
-🌱 Desenvolvedor Full Stack com foco em soluções web modernas
-💼 Empreendedor digital criando oportunidades no Acre
-🚀 Especialista em desenvolvimento de aplicações escaláveis
-📚 Eterno estudante e compartilhador de conhecimento
-🌍 Conectando tecnologia com negócios locais
+🌱 Especialista em Data Science e Machine Learning
+💼 Engenheiro de Dados focado em soluções escaláveis
+🚀 Desenvolvedor Python com expertise em pipelines de dados
+📊 Transformando dados em insights estratégicos
+🔧 Especialista em arquiteturas de dados modernas
+🌍 Conectando dados com decisões de negócio
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Edsongom1&color=blue&style=flat" alt="Profile Views" />
