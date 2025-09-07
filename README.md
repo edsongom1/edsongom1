@@ -1,7 +1,9 @@
 # 👋 Edson Gomes Chaves  
 
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12&height=200&section=header&text=Engenheiro%20de%20Dados%20%7C%20Especialista%20em%20ML&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Transformando%20Dados%20em%20Insights%20Estratégicos&descAlignY=60&descSize=18" width="100%" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12&height=200&section=header&text=Engenheiro%20de%20Dados%20%7C%20Especialista%20em%20ML&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Transformando%20Dados%20em%20Insights%20Estratégicos&descAlignY=60&descSize=18" width="100%" />
+</div>
+  
 </div>  
 
 <div align="center">  
