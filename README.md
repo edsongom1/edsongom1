@@ -85,10 +85,50 @@
 
 ## 🚀 Projetos em Destaque  
 
-- **Pipeline de Dados Empresarial** → [Framework ETL Avançado](https://github.com/Edsongom1)  
-- **Plataforma de IA/ML** → [Framework de IA Empresarial](https://github.com/Edsongom1)  
-- **Dashboard Analítico** → [Plataforma Executiva de BI](https://github.com/Edsongom1)  
+## 🚀 Projetos
 
+### 🔹 [Projeto 01 - Transfer Learning: Classificação de Gatos vs Cachorros](projeto-01-transfer_learning_cats_dogs)
+
+-   Implementação de Transfer Learning com **VGG16**\
+-   Fine-tuning e avaliação com métricas detalhadas
+
+### 🔹 [Projeto 02 - Redução de Dimensionalidade em Imagens](projeto-02-reducao-dimensionalidade-imagens)
+
+-   Conversão RGB → Grayscale → Binário\
+-   Pré-processamento de imagens para CNNs
+
+### 🔹 [Projeto 03 - Calculadora de Métricas de Classificação](projeto-03-classificacao-de-metricas)
+
+-   Cálculo de Acurácia, Recall, Precisão, Especificidade, F1-Score\
+-   Menu interativo em Python puro
+
+### 🔹 [Projeto 04 - Detecção de Objetos com YOLO](projeto-04-%20base-de-dados-e-treinamento-da-rede-YOLO)
+
+-   Treinamento com YOLOv8\
+-   Dataset customizado e conversão LabelMe → YOLO
+
+### 🔹 [Projeto 05 - Sistema de Reconhecimento Facial](projeto-05-Criando-um-Sistema-de-Reconhecimento-Facial)
+
+-   CNN para extração de embeddings faciais\
+-   Classificação via **SVM**
+
+### 🔹 [Projeto 06 - Sistema de Recomendação](projeto-06-sistema-de-recomendacao)
+
+-   Similaridade de imagens para recomendação de produtos\
+-   Web app com **Streamlit**
+
+### 🔹 [Projeto 07 - Sistema de Assistência Virtual](projeto-07-sistema-de-assistencia-virtual)
+
+-   Assistente pessoal com **voz e texto**\
+-   Integração com Wikipedia e geração de piadas
+
+### 🔹 [Projeto 09 - Sistema de Geração de Testes Unitários](projeto-09-Testes-unitarios-Langchain-e-Azure-chatgpt)
+
+- Automatização de testes com **LangChain** e **Azure OpenAI**
+- Integração com **Pytest**, geração automática de cenários e validação de código
+- Estrutura modular com **CLI interativa** e suporte a múltiplos frameworks de teste
+
+------------------------------------------------------------------------
 ---
 
 ## 🌐 Conexões Estratégicas  
