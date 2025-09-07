@@ -107,9 +107,15 @@ Mostrar Imagem
 Mostrar Imagem
 </div>
 
-📈 Atividade no GitHub
+📈 Contribuições & Atividade
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Edsongom1&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edsongom1&theme=dark" alt="Profile Summary" />
+</div>
+<div align="center">
+  <!-- Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edsongom1&theme=dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edsongom1&theme=dark" alt="Most Commit Language" />
 </div>
 
 🌐 Conecte-se Comigo
