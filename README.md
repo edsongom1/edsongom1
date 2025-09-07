@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=D97706&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados+Sênior+%26+Arquiteto+de+ML;Especialista+em+Soluções+em+Nuvem;Líder+em+Tecnologia;Especialista+em+Transformação+Digital" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=D97706&center=true&vCenter=true&width=700&lines=Engenheiro+de+Dados+%26+Arquiteto+de+ML;Especialista+em+Soluções+em+Nuvem;Líder+em+Tecnologia;Especialista+em+Transformação+Digital" />  
 </div>  
 
 ---
@@ -15,8 +15,8 @@
 **Perfil de Liderança :**  
 ```
 👨‍💼 Edson Gomes Chaves
-📍 Localização: Acre, Brasil
-🎯 Função: Engenheiro de Dados Sênior & Arquiteto de ML
+📍 Localização: São Paulo, Brasil
+🎯 Função: Engenheiro de Dados & Ciencia de Dados
 🚀 Foco: Inteligência Artificial Empresarial & Soluções em Nuvem
 💡 Especialidade: Infraestrutura de Dados Escalável
 🌟 Missão: Inovação Digital & Liderança Estratégica
