@@ -19,7 +19,7 @@
 👨‍💼 Edson Gomes Chaves
 📍 Localização: São Paulo, Brasil
 🎯 Função: Engenheiro de Dados & Ciencia de Dados
-🚀 Foco: Inteligência Artificial Empresarial & Soluções em Nuvem
+🚀 Foco:  AZURE, CLOUD, Inteligência Artificial Empresarial & Soluções em Nuvem
 💡 Especialidade: Infraestrutura de Dados Escalável
 🌟 Missão: Inovação Digital & Liderança Estratégica
 ```  
