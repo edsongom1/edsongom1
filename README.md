@@ -50,7 +50,7 @@
 
 <div align="center">  
 <a href="https://www.credly.com/users/edson-gomes-chaves/badges">  
-  <img src="https://img.shields.io/badge/🎖️%20Ver%20Todas%20as%20Certificações-D97706?style=for-the-badge&logo=credly&logoColor=white&labelColor=111827" />  
+  <img src="https://img.shields.io/badge/🎖️CREDLY - %20Ver%20Todas%20as%20Certificações-D97706?style=for-the-badge&logo=credly&logoColor=white&labelColor=111827" />  
 </a>  
 
 <img src="https://github-profile-trophy.vercel.app/?username=Edsongom1&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" />  
