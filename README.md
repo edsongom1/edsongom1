@@ -136,7 +136,7 @@
 <div align="center">  
 <a href="https://linkedin.com/in/edsongom"><img src="https://img.shields.io/badge/LinkedIn-D97706?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" /></a>  
 <a href="mailto:edsgom@gmail.com"><img src="https://img.shields.io/badge/Contato-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" /></a>  
-<a href="https://empresasnoacre.com.br"><img src="https://img.shields.io/badge/Portfólio-059669?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111827" /></a>  
+<a href="https://github.com/edsongom1/edsongom1"><img src="https://img.shields.io/badge/Portfólio-059669?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111827" /></a>  
 <a href="https://discord.gg/Edsongom1"><img src="https://img.shields.io/badge/Comunidade-7C2D12?style=for-the-badge&logo=discord&logoColor=white&labelColor=111827" /></a>  
 </div>  
 
