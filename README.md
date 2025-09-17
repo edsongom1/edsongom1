@@ -147,5 +147,5 @@
 <br>  
 <img src="https://komarev.com/ghpvc/?username=Edsongom1&color=D97706&style=for-the-badge&label=VISITAS+AO+PERFIL+EXECUTIVO" />  
 <br><br>  
-👑 *“Arquitetando a transformação digital do Acre através da inovação estratégica e excelência em tecnologia.”*  
+👑 *“Arquitetando a transformação digital através da inovação estratégica e excelência em tecnologia.”*  
 </div>  
