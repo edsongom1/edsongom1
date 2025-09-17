@@ -25,12 +25,12 @@
 ```  
 
 **Principais Competências**  
-- Engenharia de Dados & Processos ETL  
-- Machine Learning & Análise Avançada  
-- Arquitetura em Nuvem (AWS/GCP)  
-- APIs & Desenvolvimento Full Stack  
-- Liderança de Equipes & Mentoria  
-- Planejamento Estratégico de Tecnologia  
+- Engenharia de Dados & Processos ETL em Azure (Data Factory, Synapse Pipelines, Databricks)  
+- Machine Learning & Análise Avançada no Azure (ML Studio, Cognitive Services, Responsible AI)
+- Arquitetura em Nuvem no Azure (Data Lake, Synapse Analytics, Event Hub, Functions, Kubernetes)  
+- Integração de Dados & Desenvolvimento de APIs (Azure API Management, Logic Apps, Dataflow)
+- Liderança Técnica & Mentoria em Projetos de Dados
+- Planejamento Estratégico em Plataformas de Dados no Azure  
 
 ---
 
